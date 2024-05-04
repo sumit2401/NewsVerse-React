@@ -1,0 +1,7 @@
+1-features of class based components in function based components
+
+2- it allows you to use state and other react features without writing a class
+
+3- hooks are the functions which 'hook into ' react state and lifecycle features from function components
+
+hooks gives us the access and feature of class based components in function based react.

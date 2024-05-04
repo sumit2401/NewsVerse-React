@@ -1,0 +1,268 @@
+
+
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Ryan Browne, Arjun Kharpal",
+        "title": "Sony first-quarter profit falls 31% but sales beat expectations on PlayStation 5 boost - CNBC",
+        "description": "Sony on Wednesday reported a 31% fall in profit in the June quarter — but raised full-year sales forecasts on the back of strength in its PlayStation business.",
+        "url": "https://www.cnbc.com/2023/08/09/sony-earnings-report-q1-2023.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107283162-1691491519512-gettyimages-1580920005-porzycki-playstat230806_nph3Q.jpeg?v=1691562962&w=1920&h=1080",
+        "publishedAt": "2023-08-09T06:36:02Z",
+        "content": "PlayStation DualSense controller and PlayStation 5 console are seen in this illustration photo taken in Krakow, Poland on April 9, 2022.\r\nSony on Wednesday reported a 31% fall in profit in the first … [+4723 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Maham Javaid, Ben Brasch",
+        "title": "Winning lottery numbers: $1.58 billion Mega Millions jackpot ticket sold - The Washington Post - The Washington Post",
+        "description": "The jackpot is the largest in Mega Millions lottery history, surpassing a $1.537 billion win in 2018.",
+        "url": "https://www.washingtonpost.com/nation/2023/08/09/mega-millions-jackpot-winner-billion/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VD3K4T2AAH5RZWVMFK5HJIRA6M_size-normalized.jpg&w=1440",
+        "publishedAt": "2023-08-09T06:30:06Z",
+        "content": "Comment on this story\r\nComment\r\nSomeone won the estimated $1.58 billion Mega Millions jackpot Tuesday night, the largest Mega Millions jackpot ever.\r\nThe winning numbers were 13, 19, 20, 32, 33, and … [+2143 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Musk and Zuckerberg cage match, Tucker Carlson's attempted comeback: Big moves in tech - MSNBC",
+        "description": "Kara Swisher breaks down the biggest headlines in business and tech – from cage fights to A.I. and a possible Tucker Carlson comeback.» Subscribe to MSNBC: h...",
+        "url": "https://www.youtube.com/watch?v=7ratAWhWuUU",
+        "urlToImage": "https://i.ytimg.com/vi/7ratAWhWuUU/maxresdefault.jpg",
+        "publishedAt": "2023-08-09T05:15:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Stella Qiu",
+        "title": "Asian shares hesitant on China deflation risk, bank jitters - Reuters",
+        "description": "Asian shares were on the defensive on Wednesday after data showed that China slipped into deflation in July, a negative sign for the world economic growth outlook although it could help dampen on inflationary forces globally.",
+        "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-09/",
+        "urlToImage": "https://www.reuters.com/resizer/cxpRVXQCZVKvUa1zFhvsYw_eAOU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BF2FX67VVPCZA42YGNBLZBN7U.jpg",
+        "publishedAt": "2023-08-09T03:59:54Z",
+        "content": "SYDNEY, Aug 9 (Reuters) - Asian shares were on the defensive on Wednesday after data showed that China slipped into deflation in July, a negative sign for the world economic growth outlook although i… [+4008 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "Report: Penn National will pay ESPN $1.5 billion over 10 years for \"ESPN BET\" - NBC Sports",
+        "description": "On the heels of mass layoffs, ESPN gets a huge annual cash infusion.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-penn-national-will-pay-espn-1-5-billion-over-10-years-for-espn-bet",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/e572faa/2147483647/strip/true/crop/585x329+0+45/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fd2%2F96%2F7cf73dc45a3fee0a76782ec7f2b3%2Fespn-logo-getty-e1492683735636.jpg",
+        "publishedAt": "2023-08-09T03:55:03Z",
+        "content": "The unexpected divorce between Penn National and Barstool created most of the buzz on Tuesday afternoon. But its Penn Nationals next move that will raise plenty of eyebrows in and around Bristol.\r\nVi… [+2096 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Tesla's New CFO, Vaibhav Taneja, Now Has Two Jobs And Many Question Marks - NDTV",
+        "description": "Tesla Inc. has a long history of promoting talent from within. Outside hires don't last for very long in the carmaker's scrappy, hard-charging culture, and it takes a certain stamina to work for Elon Musk.",
+        "url": "https://www.ndtv.com/world-news/vaibhav-taneja-teslas-new-cfo-now-has-two-jobs-and-a-lot-of-question-marks-4281703",
+        "urlToImage": "https://c.ndtvimg.com/2023-08/45ne5ps_-vaibhav-taneja_625x300_07_August_23.jpg",
+        "publishedAt": "2023-08-09T03:55:00Z",
+        "content": "Vaibhav Taneja spent almost 17 years at PricewaterhouseCoopers, Tesla's longtime accounting firm.\r\nTesla Inc. has a long history of promoting talent from within. Outside hires don't last for very lon… [+3790 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WAND"
+        },
+        "author": "",
+        "title": "Hundreds being laid off from Memorial Health | Top Stories | wandtv.com - WAND",
+        "description": "(WAND) - Hundreds of employees are being laid off from Memorial Health.",
+        "url": "https://www.wandtv.com/news/hundreds-being-laid-off-from-memorial-health/article_0e41d544-3611-11ee-8a04-378d35691ccd.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/b/57/b57e7439-cec4-5ee5-bb44-01743feb119c/64d304dc74e58.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2023-08-09T03:00:00Z",
+        "content": "(WAND) - Hundreds of employees are being laid off from Memorial Health. \r\nMemorial Health sent WAND a statement Tuesday saying:\r\n\"In response to the current national and statewide economic trends neg… [+1150 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Andrew Throuvalas",
+        "title": "Top Crypto Execs Confident SEC Will Approve Spot Bitcoin ETFs - Decrypt",
+        "description": "Galaxy Digital CEO Mike Novogratz and Ark Invest CEO Cathie Wood separately expressed optimism that regulatory approval was inevitable.",
+        "url": "https://decrypt.co/151809/spot-bitcoin-etf-sec-approval-michael-novogratz-cathie-wood",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/Michael-Novogratz-Cathie-Wood-RKO-gID_7.jpg",
+        "publishedAt": "2023-08-09T02:16:55Z",
+        "content": "All eyes are on the Securities and Exchange Commission (SEC) as it mulls a number of applications for a spot Bitcoin exchange traded fund (ETF), and two leading names in crypto are now publicly predi… [+2085 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": "Thomas Hale",
+        "title": "Chinese economy falls into deflation as recovery stumbles - Financial Times",
+        "description": "Consumer prices turn negative for first time since February 2021 as policymakers face calls for stimulus",
+        "url": "https://www.ft.com/content/03f028d6-3b6d-456c-a57b-b08590f1828f",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faadb4f29-67be-4a42-acc7-83625ea3181b.jpg?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2023-08-09T02:00:32Z",
+        "content": "Chinas economy has fallen into deflation as consumer prices contracted for the first time in more than two years, in one of the starkest indicators of the challenges facing policymakers as they strug… [+1257 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Evelyn Cheng",
+        "title": "China's consumer prices fall for the first time in 2 years, as fears of deflation grow - CNBC",
+        "description": "Lackluster domestic demand has persisted since the pandemic.",
+        "url": "https://www.cnbc.com/2023/08/09/china-reports-smaller-than-expected-drop-in-consumer-prices.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107283629-1691538951394-gettyimages-1583885810-CHINA_FOOD_MARKET.jpeg?v=1691545083&w=1920&h=1080",
+        "publishedAt": "2023-08-09T01:38:00Z",
+        "content": "Customers at a fresh food market in Shanghai, China, on Monday, Aug. 7, 2023.\r\nBEIJING China reported inflation data for July that pointed to a modest improvement from June.\r\nThe consumer price index… [+2891 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "LA hotel workers enter second month of strike - FOX 11 Los Angeles",
+        "description": "Hotel workers in Los Angeles have been on strike, demanding higher wages and better benefits, since July 2. Kurt Petersen, Co-President of UNITE HERE Local 1...",
+        "url": "https://www.youtube.com/watch?v=Hc_81wtn-yc",
+        "urlToImage": "https://i.ytimg.com/vi/Hc_81wtn-yc/hqdefault.jpg",
+        "publishedAt": "2023-08-09T01:36:37Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Texas relying on renewable energy for power amid extreme heat - CBS News",
+        "description": "The state of Texas has sweltered this summer under a seemingly endless cycle of extreme heat warnings. Those high temperatures have put a strain on the state...",
+        "url": "https://www.youtube.com/watch?v=cG0GEGJrEEk",
+        "urlToImage": "https://i.ytimg.com/vi/cG0GEGJrEEk/maxresdefault.jpg",
+        "publishedAt": "2023-08-09T00:53:47Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Moody's cuts credit ratings for 10 U.S. banks - CBS News",
+        "description": "Bank stocks fell Tuesday after Moody's Investors Service downgraded the credit ratings of 10 regional banks, citing growing financial risks and strains that ...",
+        "url": "https://www.youtube.com/watch?v=daXCqkQT2qc",
+        "urlToImage": "https://i.ytimg.com/vi/daXCqkQT2qc/maxresdefault.jpg",
+        "publishedAt": "2023-08-09T00:49:40Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SFGate"
+        },
+        "author": "SFGATE",
+        "title": "The Bay Area-based 'Tesla of electric buses' has gone bankrupt - SFGATE",
+        "description": null,
+        "url": "https://www.sfgate.com/tech/article/proterra-electric-vehicle-declares-bankruptcy-18286196.php",
+        "urlToImage": null,
+        "publishedAt": "2023-08-09T00:35:23Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "OregonLive"
+        },
+        "author": "The Associated Press",
+        "title": "Postal Service cuts air mail by 90%, saving $1 billion a year - OregonLive",
+        "description": "The Postal Service, however, also reported a projected $6 billion in unplanned costs this year because of inflation.",
+        "url": "https://www.oregonlive.com/business/2023/08/postal-service-cuts-air-mail-by-90-saving-1-billion-a-year.html",
+        "urlToImage": "https://www.oregonlive.com/resizer/laY5KH8bN53GbI5NEhhNC8AwrdY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NQJ5ON5XTJDQRF6HS2TWWM7E6Y.jpg",
+        "publishedAt": "2023-08-09T00:31:00Z",
+        "content": "The U.S. Postal Service has reduced its volume of shipments by aircraft by 90% over two years, putting the service on course to save $1 billion in annual transportation costs, U.S. Postmaster General… [+1458 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SFGate"
+        },
+        "author": "Ariana Bindman",
+        "title": "San Franciscans beg California to stop Cruise, Waymo takeover - SFGATE",
+        "description": "In public comments, San Franciscans begged the California Public Utilities Commission to stop Cruise and Waymo's expansion.",
+        "url": "https://www.sfgate.com/tech/article/san-franciscans-beg-california-stop-cruise-waymo-18286073.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/33/14/07/23904727/5/rawImage.jpg",
+        "publishedAt": "2023-08-09T00:07:29Z",
+        "content": "A Waymo driverless taxi stops on a street in San Francisco for several minutes because the back door was not completely shut, while traffic backs up behind it, on Feb. 15, 2023.\r\nCruise and Waymo are… [+5808 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WPRI.com"
+        },
+        "author": "Sarah Guernelli, Eli Sherman",
+        "title": "‘I was not aware’: Fast-growing solar industry causing headaches for some in RI - WPRI.com",
+        "description": "A Warwick homeowner regrets putting solar panels on her home, saying she was misled about tax credits and overall costs.",
+        "url": "https://www.wpri.com/target-12/consumer-investigations/i-was-not-aware-fast-growing-solar-industry-causing-headaches-for-some-in-ri/",
+        "urlToImage": "https://www.wpri.com/wp-content/uploads/sites/23/2023/08/Solar.png?w=1280",
+        "publishedAt": "2023-08-08T23:54:19Z",
+        "content": "PROVIDENCE, R.I. (WPRI) When Karlene Chase decided last year to put solar panels on her Warwick home, she says a salesperson promised the energy would cover her monthly electricity costs and an upfro… [+4390 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jacqueline Howard",
+        "title": "Drugmakers say they’re adjusting their ‘thinking on price’ of first postpartum depression pill approved in the US - CNN",
+        "description": "Drugmakers Sage Therapeutics and Biogen are still ironing out how much their newly approved postpartum depression medication, zuranolone, will cost once it’s made commercially available in the United States this year.",
+        "url": "https://www.cnn.com/2023/08/08/health/zuranolone-pricing-postpartum-depression/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230804094655-postpartum-depression-medication-zuranolone.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-08-08T23:47:00Z",
+        "content": "Drugmakers Sage Therapeutics and Biogen are still ironing out how much their newly approved postpartum depression medication, zuranolone, will cost once its made commercially available in the United … [+4845 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Jane Herz",
+        "title": "Nearly 10K Subway fans swear to change names for lifetime of free food - New York Post ",
+        "description": "Thousands have offered to switch their legal name to “Subway” in order to receive complimentary grub.",
+        "url": "https://nypost.com/2023/08/08/nearly-10k-subway-fans-swear-to-change-names-for-lifetime-of-free-food/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000020248704.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2023-08-08T23:39:00Z",
+        "content": "What would you do for a Subway sandwich?\r\nLast week, the fast-food chain announced a contest that would offer someone free sandwiches for life if they just legally changed their first name to “Subway… [+2495 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lincoln Journal Star"
+        },
+        "author": "Pat Sangimino",
+        "title": "Tip Top Tux closes; Lincoln wedding parties left scrambling - Lincoln Journal Star",
+        "description": "Tip Top Tux, with dozens of stores in 14 states, including two in Lincoln, closed its doors for good early Monday morning with little warning.",
+        "url": "https://journalstar.com/news/local/business/lincoln-tip-top-tux-closes/article_f03c6616-3626-11ee-976d-dfab0fcd22f4.html",
+        "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/03/f03c6616-3626-11ee-976d-dfab0fcd22f4/64d2c1e957a07.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2023-08-08T23:30:00Z",
+        "content": "Allyssa Kipling, seven weeks from her wedding day, heard on Monday night that Tip Top Tux had closed its locations in Sioux City, Iowa, and Omaha.\r\nShe hoped that Lincolns location wasnt affected, to… [+10577 chars]"
+      }
+    ]
+  }

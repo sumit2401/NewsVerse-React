@@ -1,0 +1,8 @@
+whenever there is a object class.. constructor always run run first even before the rendor method 
+
+methods in reacts components lifecycle
+
+1- rendor() method is used to render html dom on the components of react 
+2- componentDidMount()----(means birth of components)------- method run after the components output has ben render in the dom
+3- componentsDidUpdate()---(means grwoth of the components)----whenever there is any update in the state or props in the dom of  components 
+4- componentDidUnmount()----(death of component)--------
